@@ -13395,7 +13395,7 @@ end)
 							hitPart:FireServer(
 								v.Character.Head,
 								{X = 0/0, Y = 0/0, Z = 0/0},
-								"G3SG1",	
+								"Banana",	
 								0,
 								localPlayer.Character:FindFirstChild("Gun"),
 								nil,
